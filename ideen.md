@@ -1,6 +1,77 @@
-– CM/S vorstellen 
+- CM/S vorstellen 
 - Privatsphäre 
- - frei sprechen ohne Aufsicht 
- - Herr über die eigenen Daten
- - wer weiß was über mich 
+  - bezeichnet den nichtöffentlichen Bereich, in dem ein Mensch unbehelligt von äußeren Einflüssen sein Recht auf freie Entfaltung der Persönlichkeit wahrnimmt. Das Recht auf Privatsphäre gilt als Menschenrecht und ist in allen modernen Demokratien verankert. Dieses Recht kann aufgrund des öffentlichen Interesses an einer Person oder zu Zwecken der Strafverfolgung eingeschränkt werden. 
+  - Menschenrecht
+  - freie Entfaltung der Persönlichkeit
+  - frei sprechen ohne Aufsicht 
+  - Herr über die eigenen Daten
+  - wer weiß was über mich 
+- Welche Apps/Webseiten benutzt ihr?
+- Wer hat eine eigene Webseite?
+  - Was läuft darauf?
+- Wer hat schon einmal programmiert?
+  - Was? App, Webapp
+  - Welche Programmiersprache?
 - wie funktioniert ein Internetdienst 
+  - Rechner im Rechenzentrum, zu Hause
+  - Rechner/Smartphone/Pad
+    - im Browser
+    - in App
+  - Verbindung über TCP/IP
+    - standartisiertes Protokoll
+    - kann jeder nutzen
+  - Infrastruktur muss betrieben werden, um Dienste zu erbringen
+    - Server
+    - Datentransport
+    - Speicherung der Daten
+  - http://www.wdrmaus.de/filme/sachgeschichten/internet.php5
+- Ein Internetdienst kostet Geld und Zeit
+	- Rechner/Datenübertragung brauchen Strom
+	- Rechner müssen gewartet werden (Systemadministrator)
+	  - Software aktualisieren
+	  - Skalieren
+	  - Aktualisieren
+- E-Mail-Spiel
+- welche Daten gebe ich preis
+  - alles was man ins Benutzerprofil beim Dienstanbieter schreibt
+    - Adresse, Name, Geburtsdatum, Geschlecht
+  - in Sozialen Netzen
+    - Freunde
+    - Interessen, Vorlieben
+    - Bilder, Videos
+  - Welche Daten braucht der Anbieter, um seinen Dienst zu erbringen?
+  - Welche Daten braucht er nicht?
+  - Was macht er mit den Daten, die er eigentlich nicht braucht?
+    - Welche Seiten rufe ich auf?
+  - Wie kann mich ein Diensteanbieter wiedererkennen?
+    - Cookies
+    - Zählpixel
+    - Fingerprinting
+   - Mobilfunk
+     - Mobilfunknetz muss wissen in welcher Zelle ein Telefon ist, damit es angerufen werden kann oder Daten austauschen kann
+     - Bewegungsprofil kann erstellt werden
+     - Malte Spitz: http://www.zeit.de/datenschutz/malte-spitz-vorratsdaten
+     - Verkehrsbeobachtung
+- Was machen die Anbieter mit meinen Daten?
+  - verkaufen
+  - Werbung
+  	- Wer bekommt welche Werbung?
+  	  - Tochter bekommt Coupons für Windeln, obwohl der Vater "weiß", dass seine Tochter nicht schwanger ist. Ist sie aber doch. Target leitet das aus geändertem Kaufverhalten ab. http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?pagewanted=1&_r=1&hp
+  	- passende Nachrichten filtern
+  	  - nützlich: Ich bekomme nur Nachrichten, die mich interessieren.
+  	  - schlecht: Filterblasen, Echokammer
+- Wie schütze ich meine privaten Daten
+  - Datensparsamkeit
+    - Möglichst nur Daten preisgeben, die für die Erbringung des Dienstes nötig sind.
+    - mehrere Identitäten benutzen
+      - eine eindeutige E-Mail-Adresse pro Dienst
+  - Datensicherheit
+    - Verschlüsseln
+      - https
+      - Mails: GPG, S/MIME
+      - Festplatte verschlüsseln
+      - Firmwarepasswort setzen
+  - Anonymisieren
+    - Tor
+  - Daten löschen
+    - das Internet vergisst nicht?
