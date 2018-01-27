@@ -1,17 +1,27 @@
-- CM/S vorstellen 
+- CMS vorstellen 
 - Privatsphäre 
   - bezeichnet den nichtöffentlichen Bereich, in dem ein Mensch unbehelligt von äußeren Einflüssen sein Recht auf freie Entfaltung der Persönlichkeit wahrnimmt. Das Recht auf Privatsphäre gilt als Menschenrecht und ist in allen modernen Demokratien verankert. Dieses Recht kann aufgrund des öffentlichen Interesses an einer Person oder zu Zwecken der Strafverfolgung eingeschränkt werden. 
   - Menschenrecht
   - freie Entfaltung der Persönlichkeit
   - frei sprechen ohne Aufsicht 
   - Herr über die eigenen Daten
-  - wer weiß was über mich 
+  - wer weiß was über mich
+  - Einschränkungen
+    - Strafverfolgung
+    - Überwachung
+      - Kameras (mit Biometrie, Gesichtserkennung) Berlin-Südkreuz
+      - Email/Internetverkehr
+    - Vorratsdatenspeicherung
+      - Verbindungsdaten zur Telekomminikation (Telefon)
+      - Verbindungsdaten zum Email-Verkehr
+    - Chilling-Effekt
 - Welche Apps/Webseiten benutzt ihr?
 - Wer hat eine eigene Webseite?
   - Was läuft darauf?
 - Wer hat schon einmal programmiert?
   - Was? App, Webapp
   - Welche Programmiersprache?
+- Was ist das Internet?
 - wie funktioniert ein Internetdienst 
   - Rechner im Rechenzentrum, zu Hause
   - Rechner/Smartphone/Pad
@@ -20,12 +30,12 @@
   - Verbindung über TCP/IP
     - standartisiertes Protokoll
     - kann jeder nutzen
+  - http://www.wdrmaus.de/filme/sachgeschichten/internet.php5
   - Infrastruktur muss betrieben werden, um Dienste zu erbringen
     - Server
     - Datentransport
     - Speicherung der Daten
-  - http://www.wdrmaus.de/filme/sachgeschichten/internet.php5
-- Ein Internetdienst kostet Geld und Zeit
+  - Ein Internetdienst kostet Geld und Zeit
 	- Rechner/Datenübertragung brauchen Strom
 	- Rechner müssen gewartet werden (Systemadministrator)
 	  - Software aktualisieren
